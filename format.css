@@ -1,12 +1,14 @@
+/* All within body is alligned to be Centered */
 body{
     text-align: center;
 }
+/* All headers will be blue with Arial as its font style */
 h1{
     color: blue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
-
+/* All paragraphs will be red with Arial as its font style */
 p{
     color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
